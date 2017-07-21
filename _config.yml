@@ -34,14 +34,15 @@ projects:
     - xcatliu/jekyllcn
     - xcatliu/leetcode
   content: >
-    <p>Other projects that I have contributed can be found in <a href="https://github.com/xcatliu">github.com/xcatliu</a>.</p>
-    <p>If you love my projects, please <a href="https://github.com/xcatliu/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
+    <p>Other projects that I have contributed can be found in <a href="https://github.com/AACAES">github.com/AACAES</a>.</p>
+    <p>If you love my projects, please <a href="https://github.com/AACAES/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
+    <p>没错，上面的项目都不是我的，我用的模版里的~~~</p>
 
 working:
   title: Working Experience
   timeline:
     - date: Now
-    - "Microsoft: Software Engineer II"
+    - "KPMG: Software Engineer II"
     - date: 2016-04
     - "Meituan: Senior Front-End Engineer"
     - date: 2015-04
@@ -53,8 +54,10 @@ working:
 education:
   title: Education Background
   timeline:
-    - date: 2013-06
-    - "Bachelor of WuHan University: Computer Science and Technology"
-    - date: 2009-09
+    - date: Now
+    - "NCEPU: thermal engineering /postgraduate"
+    - date: 2015-09
+    - "NCEPU: Architectural Environment & Equipment Engineering /undergraduate"
+    - date: 2011-09
 
 google_analytics: UA-45256157-13

@@ -25,8 +25,22 @@ introduction: >
   中文昵称是太多了。。。。<br/>
   Whenever you see this lovely cat, yeah that’s me!
     
-working:
-  title: aboutme
+projects:
+  title: Open Source Projects
+  github:
+    - xcatliu/mobi.css
+    - xcatliu/typescript-tutorial
+    - xcatliu/react-ie8
+    - xcatliu/jekyllcn
+    - xcatliu/leetcode
+  content: >
+    <p>Other projects that I have contributed can be found in <a href="https://github.com/AACAES">github.com/AACAES</a>.</p>
+    <p>If you love my projects, please <a href="https://github.com/AACAES/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
+    <p>没错，上面的项目都不是我的，我用的模版里的~~~</p>
+
+
+关于我: 
+  title: 关于我
   content: >
     <p>研究生二年级在读，热能工程专业，对，你没看错，我不是计算机一类专业的人，是烧锅炉的。。。研究方向是压缩空气储能（CAES）和风力机的气动性能，对，你还没看错，这两方向确实不沾边。。。</p>
     <p>我一直相信科技让生活更美好，也一直喜欢计算机，虽然水平比较差，但是一直在变好。</p>

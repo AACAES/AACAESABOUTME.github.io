@@ -68,6 +68,21 @@
             {% endif %}
           {% endfor %}
         {% endif %}
+        
+        {% if site.关于我 %}
+          <h2>{{ site.关于我.title }}</h2>
+          <ul>
+          </ul>
+          {{ site.关于我.content }}
+        {% endif %}
+        
+        {% if site.关于这个博客 %}
+          <h2>{{ site.关于这个博客.title }}</h2>
+          <ul>
+          </ul>
+          {{ site.关于这个博客.content }}
+        {% endif %}
+        
 
         {{ content }}
 
